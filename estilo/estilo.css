@@ -94,15 +94,14 @@ body{
 }
 
 .cuerpo_header p{
-
-    font-size: 15px;
+    font-size: 14px;
+    color: #919597;
 }
 .cuerpoTexto{
     width: 50%
 }
 .cuerpo_header_texto{
     margin-top: 10px;
-   ;
     font-size: 15px;
     color: #495057;
     background-color: #fff;
