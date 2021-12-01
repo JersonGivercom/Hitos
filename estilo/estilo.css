@@ -18,7 +18,7 @@ body{
     color: rgb(73, 80, 87);
 }
 .caja{
-    width: 60%;
+    width: 80%;
     margin: 40px auto;
     padding: 20px 20px;
     border-radius: 10px;
@@ -92,18 +92,30 @@ body{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+.cuerpo_header p{
+
+    font-size: 15px;
+}
+.cuerpoTexto{
+    width: 50%
+}
 .cuerpo_header_texto{
-    display: block;
-    width: 100%;
     margin-top: 10px;
+   ;
     font-size: 15px;
     color: #495057;
     background-color: #fff;
-    /* border-bottom: 1px solid #737e94; */
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 .cuerpo_header_Contenido{
     margin: 4px 8px;
+    width: 100%;
+    font-size: 15px;
+    display: flex;
+}
+.tprincipal{
+    width: 50%;
 }
 .cuerpo_final{
     display: flex;
