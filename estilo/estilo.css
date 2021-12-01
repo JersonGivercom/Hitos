@@ -74,6 +74,7 @@ body{
     background-color:rgba(25, 136, 247, 1);
     color: #fff;
     padding: 5px 5px;
+    text-align: center;
 }
 .cuerpo{
     width: 100%;
