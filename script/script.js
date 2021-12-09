@@ -4,3 +4,4 @@ document.querySelectorAll('#temario .lista a').forEach((elemento) => {
 		elemento.parentElement.classList.add('activo');
 	});
 });
+

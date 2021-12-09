@@ -158,7 +158,7 @@ aside .lista li a {
 
 aside .lista li.activo a,
 aside .lista li a:hover {
-	color: #000;
+	color: var(--temario-active-border);
 }
 
 aside .lista li::before {
